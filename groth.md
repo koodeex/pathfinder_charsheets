@@ -45,7 +45,7 @@
 
 ## RAGE
 
-![](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/barbarian_comm_by_yamao-d5ooj60-2.jpg)
+![](https://i.pinimg.com/736x/27/af/b2/27afb2f7166d98b2f23ece1872e995f9.jpg)
 
 `16 Rounds/Day`
 
