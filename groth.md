@@ -40,8 +40,8 @@
 
 ## TRAITS
 
-- Reactionary (+1 Init)
-- Drink Potion as Move
+- [Reactionary (+1 Init)](https://www.d20pfsrd.com/traits/combat-traits/reactionary)
+- [Accelerated Drinker (Drink Potion as Move if in the hand)](https://www.d20pfsrd.com/traits/combat-traits/accelerated-drinker)
 
 ## RAGE
 
