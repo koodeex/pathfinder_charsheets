@@ -2,6 +2,17 @@
 
 ![](https://i0.wp.com/dmdave.com/wp-content/uploads/2019/01/mtg-barbarian-104528730-1546583971995.jpg?w=1555&ssl=1)
 
+## Content
+- [STATS](#stats)
+- [AC](#ac)
+- [SAVES](#saves)
+- [TRAITS](#traits)
+- [HP](#hp)
+- [SKILLS](#skills)
+- [INVENTORY](#inventory)
+- [CLASS FEATUERS](#class-features)
+- [ATTACK](#attack)
+
 ## STATS
 
 | Stat |                            Value                            |                   Bonus                    |
@@ -86,7 +97,7 @@
 
 ## Inventory
 
-## WEAPON
+### WEAPON
 
 ![](https://i.pinimg.com/originals/c8/b4/d7/c8b4d7f79cd3b4e52284eae78c7b1c31.png)
 
@@ -160,6 +171,7 @@
 ```
 BAB +5 
 ```
+### ATTACK
 
 |      Type       | Val | Summary | 
 |:---------------:|:---:|:---:| 
@@ -168,7 +180,7 @@ BAB +5
 |      **RAGE**       | `5 + 8 - 3 + 1 + 2` | 13 |
 |  **RAGE WITH PA**   | `5 + 8 - 3 - 2 + 1 + 2` | 11 |
 
-## DAMAGE (no enlarge)
+### DAMAGE (no enlarge)
 
 |      Type       |           Val           |  Summary | 
 |:---------------:|:-----------------------:|:--------:| 
@@ -177,7 +189,7 @@ BAB +5
 |      **RAGE**       |   `3d8 + 1 + 8 * 1.5`   | 3d8 + 13 |
 |  **RAGE WITH PA**   | `3d8 + 1 + 8 * 1.5 + 6` | 3d8 + 19 |
 
-## DAMAGE (with enlarge)
+### DAMAGE (with enlarge)
 
 |      Type       |           Val           | Summary  | 
 |:---------------:|:-----------------------:|:--------:| 
