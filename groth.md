@@ -64,6 +64,19 @@ TOTAL + 9
 | WIS  |       16        |  +3   |
 | CHA  |        7        |  -2   |
 
+### CMB
+
+| BAB | STR | Size | Total |
+|:---:|:---:|:----:|:-----:|
+| 20  | 22  |  2   |  44   |
+
+### CMD
+
+| BASE | CMB | DEX | Total |
+|:----:|:---:|:---:|:-----:|
+|  10  | 44  |  5  |  59   |
+
+
 ## AC
 
 ![](https://qph.fs.quoracdn.net/main-qimg-b06dab9037fab4593565f9236ba7bcf0-lq)
