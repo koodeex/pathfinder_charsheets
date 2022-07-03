@@ -114,7 +114,7 @@ TOTAL + 9
 
 ![](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/barbarian_comm_by_yamao-d5ooj60-2.jpg)
 
-`50 Rounds/Day`
+`48 Rounds/Day`
 
 ## SAVES
 
@@ -206,9 +206,10 @@ TOTAL + 9
 |   250   | [Traveler’s AnyTool](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/traveler-s-any-tool)                                                                       |
 | 56 000  | [Cure Critical Wounds Tattoo - caster lvl 7](https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/)                                                        |
 | 118 000 | [EagleSong Tatoo](https://www.d20pfsrd.com/magic/all-spells/e/eaglesoul/)                                                                                              |
-
+| 2 500 | [ring sustenance](https://www.d20pfsrd.com/magic-items/rings/ring-of-sustenance/)
+                        |
 -----------------------
-1 080 000 - 1 071 000 = 9 000
+1 080 000 - 1 071 000 = 7 500
 
 |            Name             |     Count     |
 |:---------------------------:|:-------------:|
