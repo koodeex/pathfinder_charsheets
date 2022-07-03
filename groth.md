@@ -107,14 +107,14 @@ TOTAL + 9
 
 ## TRAITS
 
-- Reactionary (+1 Init)
-- Suspicious (+1 Sense Motive)
+- [Reactionary (+1 Init)](https://www.d20pfsrd.com/traits/combat-traits/reactionary/)
+- [Suspicious (+1 Sense Motive)](https://www.d20pfsrd.com/traits/social-traits/suspicious/)
 
 ## RAGE
 
 ![](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/barbarian_comm_by_yamao-d5ooj60-2.jpg)
 
-`16 Rounds/Day`
+`50 Rounds/Day`
 
 ## SAVES
 
