@@ -27,9 +27,9 @@ TOTAL + 9
 
 ### Books And other
 
-[Gainful Exercises +4 STR](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-manual-of-gainful-exercise/)
-[Fuck Lilitu +4 STR](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lilitu/)
-[Quickness Actions +4 DEX](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-manual-of-quickness-of-action/)
++ [Gainful Exercises +4 STR](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-manual-of-gainful-exercise/)
++ [Fuck Lilitu +4 STR](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lilitu/)
++ [Quickness Actions +4 DEX](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-manual-of-quickness-of-action/)
 
 ### No Rage
 
