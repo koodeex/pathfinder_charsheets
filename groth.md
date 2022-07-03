@@ -39,7 +39,7 @@ TOTAL + 9
 | DEX  |                        14 + 6 (Belt of Physical Perfection) + 4 inherit = 24                         |  +7   |
 | CON  |                              16 + 6 (Belt of Physical Perfection) = 22                               |  +6   |
 | INT  |                                    7 + 2 (IOUN stone) + 1 inherit                                    |   0   |
-| WIS  |                              10 + 6 (Headband of Inspired Wisdom) = 16                               |  +3   |
+| WIS  |                              14 + 6 (Headband of Inspired Wisdom) = 20                               |  +5   |
 | CHA  |                                                  7                                                   |  -2   |
 
 ### Rage
@@ -49,8 +49,8 @@ TOTAL + 9
 | STR  | 42 + 8 = 50 |  +20  |
 | DEX  |     24      |  +7   |
 | CON  | 22 + 8 = 30 |  +10  |
-| INT  |      7      |  -2   |
-| WIS  |     16      |  +3   |
+| INT  |     10      |   0   |
+| WIS  |     20      |  +5   |
 | CHA  |      7      |  -2   |
 
 ### Rage + Enlarge Mythic
@@ -60,8 +60,8 @@ TOTAL + 9
 | STR  | 42 + 8 + 4 = 54 |  +22  |
 | DEX  |   24 - 4 = 20   |  +5   |
 | CON  |   22 + 8 = 30   |  +10  |
-| INT  |        7        |  -2   |
-| WIS  |       16        |  +3   |
+| INT  |       10        |   0   |
+| WIS  |       20        |  +20  |
 | CHA  |        7        |  -2   |
 
 ### CMB
@@ -124,7 +124,7 @@ TOTAL + 9
 |:----:|:--------------:|:-------:|
 | Fort | 12 + 6 + 5 + 1 |   24    |
 | Ref  | 6 + 6 + 5 + 1  |   18    |
-| Wil  | 6 + 3 + 5 + 1  |   15    |
+| Wil  | 6 + 5 + 5 + 1  |   17    |
 
 ### Rage
 
@@ -132,7 +132,7 @@ TOTAL + 9
 |:----:|:---------------------:|:-------:|
 | Fort |  12 + 10 + 5 + 7 + 1  |   35    |
 | Ref  |   6 + 6 + 5 + 7 + 1   |   25    |
-| Wil  | 6 + 3 + 5 + 7 + 4 + 1 |   27    |
+| Wil  | 6 + 5 + 5 + 7 + 4 + 1 |   29    |
 
 ## HP
 
@@ -146,10 +146,10 @@ TOTAL + 9
 |:----------------:|:------------------:|:-------:|
 |    Acrobatics    |   10 + 5 + 3 + 1   |   19    |
 | Knowledge Nature |   10 + 0 + 3 + 1   |   14    |
-|   Sense Motive   | 20 + 3 + 3 + 1 + 4 |   31    |
-|    Perception    | 20 + 3 + 3 + 1 + 4 |   31    | 
+|   Sense Motive   | 20 + 5 + 3 + 1 + 4 |   33    |
+|    Perception    | 20 + 5 + 3 + 1 + 4 |   33    | 
 |      Climb       |   5 + 1 + 6 + 1    |   13    |
-|     Survival     |   6 + 3 + 3 + 1    |   13    | 
+|     Survival     |   6 + 5 + 3 + 1    |   15    | 
 |       Ride       |   1 + 5 + 3 + 1    |   10    | 
 |  Handle Animal   |   1 - 2 + 3 + 1    |    3    |
 | Profession(cook) |   4 + 0 + 3 + 1    |    8    |
