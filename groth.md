@@ -208,6 +208,7 @@ TOTAL + 9
 | 118 000 | [EagleSong Tatoo](https://www.d20pfsrd.com/magic/all-spells/e/eaglesoul/)                                                                                              |
 | 2 500 | [ring sustenance](https://www.d20pfsrd.com/magic-items/rings/ring-of-sustenance/)
                         |
+                        
 -----------------------
 1 080 000 - 1 071 000 = 7 500
 
