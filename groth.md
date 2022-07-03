@@ -156,7 +156,7 @@ TOTAL + 9
 
 ## Initiative
 
-14 = 7 + 1 + 1 + 5 12 = 5 + 1 + 1 + 5
+14 = 7 DEX + 1 IOUN + 1 Reactionary + 5 Mythic Tier
 
 ## Inventory
 
