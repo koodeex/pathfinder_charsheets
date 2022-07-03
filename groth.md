@@ -184,7 +184,7 @@ TOTAL + 9
 |  Cost   | Item                                                                                                                                                                    |
 |:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 200 000 | +10 GUN                                                                                                                                                                 | 
-| 100 000 | Armor Mythic Enlrage                                                                                                                                                    | 
+| 25 000 | Armor Mythic Enlrage                                                                                                                                                    | 
 | 25 000  | [cloak +5](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/)                                                                                | 
 | 110 000 | [Gainful Exercises +4 STR](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-manual-of-gainful-exercise/)                                                    | 
 | 110 000 | [Fuck Lilitu +4 STR](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lilitu/)                                                                  | 
@@ -204,15 +204,14 @@ TOTAL + 9
 | 12 000  | [Boots of Speed](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed)                                                                                | 
 | 20 000  | [Googles, Darksight](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-darksight)                                                                         | 
 |   250   | [Traveler’s AnyTool](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/traveler-s-any-tool)                                                                       |
-| 72 000  | [Cure Critical Wounds Tattoo - caster lvl 10](https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/)                                                        |
+| 56 000  | [Cure Critical Wounds Tattoo - caster lvl 7](https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/)                                                        |
+| 118 000 | [EagleSong Tatoo](https://www.d20pfsrd.com/magic/all-spells/e/eaglesoul/)                                                                                              |
 
 -----------------------
-1 080 000 - 804536 - 54 000 - 27 500 - 8 000 - 32 250 = 153 714
+1 080 000 - 1 071 000 = 9 000
 
 |            Name             |     Count     |
 |:---------------------------:|:-------------:|
-|       CureLightWounds       | x10 (1d8 + 1) | 
-| Cure Critical Wounds Tattoo |  x1 (3d8+3)   | 
 |           Веревка           |               |
 |            Мыло             |               |
 |            Милы             |     6 шт      | 
