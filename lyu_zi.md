@@ -151,7 +151,7 @@ C = Class Skill
 
 ## INVENTORY
 
-![](https://athkatmon.fandom.com/wiki/Adrian_Dundragon?file=Dundragon.jpg)
+![](https://i.pinimg.com/736x/7c/5c/84/7c5c8400625d5410f3fed0f4f2a9a8ac.jpg)
 
 Started gold:
 
