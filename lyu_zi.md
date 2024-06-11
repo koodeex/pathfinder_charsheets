@@ -165,7 +165,7 @@ Gold on a pocket:
 
 | Name                                                                                                                                                              | Count |                                               Cost |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|---------------------------------------------------:|
-| [Longbow MW (+1 Enchantment)](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/longbow/)                                                            |   1   | 100 (base) + 200 (composite +2) + 300 (mw) = 600gp |
+| [Longbow, Composite MW (+1 Enchantment to Attack)](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/longbow-composite/)                             |   1   | 100 (base) + 200 (composite +2) + 300 (mw) = 600gp |
 | [Arrow, common (20)](https://www.d20pfsrd.com/equipment/Weapons/#martial-ammo) x 10                                                                               |  200  |                                      1 * 10 = 10gp |
 | [Arrow, incendiary (20)](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/arrow-incendiary) x 1                                          |  60   |                                      1 * 10 = 10gp |
 | [Arrow, barbed (20)](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/arrow-barbed) x 3                                                  |  60   |                                        3 * 1 = 3gp |
