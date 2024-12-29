@@ -55,22 +55,22 @@
 Feytouched Hexer имеет столько же известных заклинаний, как чародей, согласно таблице прогрессии.
 
 #### Кантрипы (0 уровень):
-- **Detect Magic** *(обнаружение магии)*  
-- **Read Magic** *(чтение магии)*  
-- **Prestidigitation** *(фокусы)*  
-- **Daze** *(ошеломление)*  
-- **Light** *(свет)*  
+- **[Detect Magic](https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/)** *(обнаружение магии)*  
+- **[Read Magic](https://www.d20pfsrd.com/magic/all-spells/r/read-magic/)** *(чтение магии)*  
+- **[Prestidigitation](https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation/)** *(фокусы)*  
+- **[Daze](https://www.d20pfsrd.com/magic/all-spells/d/daze/)** *(ошеломление)*  
+- **[Light](https://www.d20pfsrd.com/magic/all-spells/l/light/)** *(свет)*  
 
 #### 1 уровень (5 заклинаний):
-1. **Charm Person** *(очарование)*
-2. **Mage Armor** *(магическая броня)*
-3. **Burning Hands** *(огненные руки)*
-4. **Feather Fall** *(падение перышка)*
-5. **Obscuring Mist** *(скрывающий туман)*
+1. **[Charm Person](https://www.d20pfsrd.com/magic/all-spells/c/charm-person/)** *(очарование)*
+2. **[Mage Armor](https://www.d20pfsrd.com/magic/all-spells/m/mage-armor/)** *(магическая броня)*
+3. **[Burning Hands](https://www.d20pfsrd.com/magic/all-spells/b/burning-hands/)** *(огненные руки)*
+4. **[Feather Fall](https://www.d20pfsrd.com/magic/all-spells/f/feather-fall/)** *(падение перышка)*
+5. **[Obscuring Mist](https://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist/)** *(скрывающий туман)*
 
 #### 2 уровень (2 заклинания):
-1. **Invisibility** *(невидимость)*
-2. **Mirror Image** *(зеркальные образы)*
+1. **[Invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility/)** *(невидимость)*
+2. **[Mirror Image](https://www.d20pfsrd.com/magic/all-spells/m/mirror-image/)** *(зеркальные образы)*
 
 ---
 
