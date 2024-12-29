@@ -7,7 +7,7 @@ Background: Urban Commoner
 | stat | value | bonus |
 |:--:|:--:|:--:|
 | STR | 13 | +1 |
-| DEX | 16 | +3 |
+| DEX | 18| +4 |
 | CON | 12 | +1 |
 | INT | 16 | +3 |
 | WIS | 10 | 0 |
