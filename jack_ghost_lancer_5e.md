@@ -31,7 +31,11 @@
 ### Stats
 |  <!-- -->                       | <!-- -->|<!-- --> |
 |:--------------------------------|---------|---------|
-| Level - 5 (Warlock 2/Fighter 3) | HP - 48 | AC - 14 |
+| Level - 5 (Warlock 2/Fighter 3) | HP - 48 | AC - 18 |
+
+|    | Armor | Shield| Dex | Summary |
+|----|-------|-------|-----|---------|
+| AC | +14   | +2    | +2  |  **18** |
 
 |  Save | Base | Profiency | Result |
 |:------|------|-----------|--------|
@@ -45,7 +49,7 @@
 
 | Name           | Попадание | Урон           | Тип урона | Ренж |
 |:---------------|-----------|----------------|-----------|------|
-| Dagger         | +5 hit    | 1d4 + 2        | piercing  | M    |
+| Repier         | +5 hit    | 1d8 + 2        | piercing  | M    |
 | Light Crossbow | +5 hit    | 1d8 + 2        | piercing  | R    |
 | Eldricht Blast | +6 hit    | 2 x (1d10 + 3) | force     | R    |
 
